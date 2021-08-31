@@ -1,9 +1,9 @@
-<p align="center">
-  <img alt="web" src="assets/web.png" width="160px">
-  </p>
 
-<h1 align="center">
-    <img alt="responsive" src="assets/responsive.png" />
+
+<h1 align="center" display="flex">
+    <img alt="web" src="https://user-images.githubusercontent.com/73333067/131460973-e6509421-16de-4cd5-add6-b76108471fad.PNG" width="px">
+    <img alt="responsive" src="https://user-images.githubusercontent.com/73333067/131459599-68615caf-21c0-4f0a-bac0-1e933d0d1c4b.PNG" width="px" height="px" />
+    
 </h1>
 
 <br>
@@ -12,8 +12,8 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Html5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [Css3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## 💻 Projeto
 
