@@ -1,5 +1,6 @@
 <p align="center">
-  <img alt="design" src="assets/web.png" width="160px">
+  <img alt="web" src="assets/web.png" width="160px">
+  </p>
 
 <h1 align="center">
     <img alt="responsive" src="assets/responsive.png" />
