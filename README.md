@@ -1,14 +1,8 @@
 <p align="center">
-  <img alt="design" src=".github/web.png" width="160px">
-</p>
-
-  <img src="https://img.shields.io/github/stars/rocketseat-education/nlw-06-reactjs?label=stars&message=MIT&color=8257E5&labelColor=000000" alt="Stars">
-
-  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000" alt="License">   
-</p>
+  <img alt="design" src="assets/web.png" width="160px">
 
 <h1 align="center">
-    <img alt="responsive" src=".github/responsive.png" />
+    <img alt="responsive" src="assets/responsive.png" />
 </h1>
 
 <br>
